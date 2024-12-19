@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.item-para {
+  font-family: 'Roboto';
+  font-size: 23px;
+  color: #000000;
+  padding: 10px;
+}
+.btn {
+  background-color: transparent;
+  border: 1px solid #ff0b37;
+  color: #ff0b37;
+  font-family: 'Roboto';
+  height: 25px;
+  width: 100px;
+  border-radius: 4px;
+}
